@@ -1,0 +1,8 @@
+com/shdori/book/springboot/web/PostsApiControllerTest.java
+ com.shdori.book.springboot.web.PostsApiControllerTest
+com/shdori/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.shdori.book.springboot.domain.posts.PostsRepositoryTest
+com/shdori/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.shdori.book.springboot.web.dto.HelloResponseDtoTest
+com/shdori/book/springboot/web/HelloControllerTest.java
+ com.shdori.book.springboot.web.HelloControllerTest
